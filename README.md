@@ -1,4 +1,4 @@
-I can't be bothered to write down all of the different instructions right now, so for the moment the only documentation is parts [1]() and [2]() in the YouTube Series.
+I can't be bothered to write down all of the different instructions right now, so for the moment the only documentation is parts [1](https://www.youtube.com/watch?v=RI9JmWbVt7M) and [2](https://www.youtube.com/watch?v=aZmw3s0-JtQ) in the YouTube Series.
 
 The most basic instruction is the beginning and end. To begin a program, place down a stone block. Then, whilst looking at that block, run the command `/trigger fungecraft.play`. This should start the program 1 block south of the stone. The execution will continue south until it hits a directional operator, or bedrock, which terminates the program.
 
